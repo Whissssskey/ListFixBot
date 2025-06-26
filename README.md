@@ -25,7 +25,7 @@ A smart bot for automatic list formatting in Telegram with 3 modes:
 
 **Quick Start:**
 
-- **Clone repo**
+- **Clone repository**
 
 - **Install dependencies: npm install**
 
